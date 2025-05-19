@@ -1,1 +1,12 @@
+.subscribe-btn {
+  background-color: #3498db;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 4px;
+}
 
+body {
+  background-color: #121212;
+  color: #ffffff;
+}
